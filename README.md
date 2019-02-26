@@ -1,5 +1,5 @@
 # TestiRepolainen
 new branch
 new commit
-master muutos
+master muuttuu
 uusi muutos
